@@ -19,7 +19,7 @@ I would suggest installing it from the vscode marketplace, but if you'd like to 
 $ git clone https://github.com/gabrielhutu/perplexity-ext 
 $ cd ./perplexity-ext
 $ npm install 
-$ npx @vscode/vsce packge
+$ npx @vscode/vsce package
 ```
 
 After the above is completed, a vsix file should be generated in the root directory of this repository. 
