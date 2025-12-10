@@ -1,3 +1,5 @@
+# WORK IN PROGRESS
+
 # Perplexity AI Chat for VS Code
 
 Integrate Perplexity AI's API directly into VS Code with real-time chat capabilities and streaming responses.
